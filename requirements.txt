@@ -1,1 +1,16 @@
 streamlit
+pinecone-client
+langchain-pinecone
+openai
+langchain-openai
+langchain
+langchain-core
+langchain-anthropic
+langchain-chroma
+langchain-community
+pydantic
+pandas===2.2.2
+texttable
+DateTime
+pinecone-client
+langchain-pinecone
